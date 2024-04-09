@@ -1,8 +1,6 @@
 ### Hi there 👋
-<div style="display:flex;">
-  <p>kfjkdjflksjlkjjl</p>
+
 ![Codewars](https://github.r2v.ch/codewars?user=Foxtailer&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
-</div>
 <!--
 **foxtailer/foxtailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
