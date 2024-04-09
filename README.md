@@ -1,6 +1,6 @@
 ### Hi there 👋
 <hr>
-#### Languages and Tools:
+### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -11,7 +11,10 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
+<br>
 <hr>
+<br>
+
 ![Codewars](https://github.r2v.ch/codewars?user=Foxtailer&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
 
 <!--
