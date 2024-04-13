@@ -3,7 +3,7 @@
 <h3>Portfolio projects:</h3>
 
 <ul>
-  <li>
+  <li style="text-dexoration:none; color:#000;">
     https://foxtailer.github.io/lorum/
   </li>
 </ul>
