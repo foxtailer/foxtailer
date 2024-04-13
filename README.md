@@ -4,7 +4,7 @@
 
 <ul>
   <li>
-    (https://foxtailer.github.io/lorum/)
+    https://foxtailer.github.io/lorum/
   </li>
 </ul>
 
