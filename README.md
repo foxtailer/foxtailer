@@ -3,8 +3,11 @@
 <h3>Portfolio projects:</h3>
 
 <ul>
-  <li style="text-dexoration:none; color:#000;">
-    https://foxtailer.github.io/lorum/
+  <li>
+    [https://foxtailer.github.io/lorum/](https://foxtailer.github.io/lorum/)
+  </li>
+  <li>
+    [https://foxtailer.github.io/lorum/](https://foxtailer.github.io/DogHandler/)
   </li>
 </ul>
 
