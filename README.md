@@ -4,10 +4,10 @@
 
 <ul>
   <li>
-    [https://foxtailer.github.io/lorum/](https://foxtailer.github.io/lorum/)
+    https://foxtailer.github.io/lorum/
   </li>
   <li>
-    [https://foxtailer.github.io/lorum/](https://foxtailer.github.io/DogHandler/)
+    https://foxtailer.github.io/DogHandler/
   </li>
 </ul>
 
