@@ -1,7 +1,7 @@
 ### Hi there 👋
 <hr>
 
-### Portfolio [>>>](https://foxtailer.github.io/gameArhive/)
+### Portfolio [>>>](https://foxtailer.github.io/portfolio/)
 
 <hr> 
 <h3>Languages and Tools:</h3>
