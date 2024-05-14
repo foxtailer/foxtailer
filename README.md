@@ -1,15 +1,6 @@
 ### Hi there 👋
 <hr>
-<h3>Portfolio projects:</h3>
-
-<ul>
-  <li>
-    https://foxtailer.github.io/DogHandler/
-  </li>
-  <li>
-    https://foxtailer.github.io/gameArhive/
-  </li>
-</ul>
+[Portfolio]()
 
 <hr>
 <h3>Languages and Tools:</h3>
