@@ -1,6 +1,5 @@
 ### Hi there 👋
 <hr>
-[⊙](https://foxtailer.github.io/portfolio/)
 
 <hr> 
 <h3>Languages and Tools:</h3>
