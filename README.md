@@ -11,7 +11,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<a href='https://foxtailer.github.io/portfolio/'>&nbsp;&nbsp;&#x200B;</a> 
+<a href='https://foxtailer.github.io/portfolio/'>&#8203;</a> 
 
 <br>
 <hr>
