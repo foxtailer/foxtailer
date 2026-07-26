@@ -1,7 +1,8 @@
 ### Hi there 👋
 <hr>
-
+[>>>](https://foxtailer.github.io/__personal/)
 <hr> 
+
 <h3>Languages and Tools:</h3>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
