@@ -1,8 +1,9 @@
 ### Hi there 👋
-<hr>
-
 <hr> 
-![>>>](https://foxtailer.github.io/personal/)
+<h3>Portfolio:<h3>
+<a href="https://foxtailer.github.io/__personal/">>>></a>
+
+<hr>
 <h3>Languages and Tools:</h3>
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
@@ -12,12 +13,14 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-
 <br>
+
 <hr>
-<br>
-
-![Codewars](https://github.r2v.ch/codewars?user=Foxtailer&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple)
+<h3>Stats:</h3>
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=Foxtailer&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_midnight_puple" width="400"/>
+  <img src="https://www.wechall.net/graph/wc_totalscore.less_is_more.png" width="400"/>
+</p>
 
 <!--
 **foxtailer/foxtailer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
