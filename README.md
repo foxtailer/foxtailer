@@ -1,7 +1,7 @@
 ### Hi there 👋
-### Portfolio: [>>>](https://foxtailer.github.io/__personal/)
-<hr> 
 
+<hr> 
+### Portfolio: [>>>](https://foxtailer.github.io/__personal/)
 
 <hr>
 <h3>Languages and Tools:</h3>
