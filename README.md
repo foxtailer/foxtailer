@@ -1,7 +1,9 @@
 ### Hi there 👋
 <hr> 
-<h3>Portfolio:<h3>
-<a href="https://foxtailer.github.io/__personal/">>>></a>
+<div style="display: flex; align-items: baseline; gap: 8px;">
+  <h3 style="margin: 0;">Portfolio:</h3>
+  <a href="https://foxtailer.github.io/__personal/">>>></a>
+</div>
 
 <hr>
 <h3>Languages and Tools:</h3>
