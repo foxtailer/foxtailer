@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<hr> 
+--- 
 ### Portfolio: [>>>](https://foxtailer.github.io/__personal/)
 
 <hr>
